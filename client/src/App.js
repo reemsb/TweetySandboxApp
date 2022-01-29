@@ -17,8 +17,8 @@ function App() {
         <header className="App-header">
           <Nav />
           <Routes>
-            <Route exact path="/" element={ <Home /> }> </Route>
-            <Route exact path="/tweets" element={ <Tweet /> }> </Route>
+            <Route exact path="/api" element={ <Home /> }> </Route>
+            <Route exact path="/api/tweets" element={ <Tweet /> }> </Route>
           </Routes>
         </header>
       </div>

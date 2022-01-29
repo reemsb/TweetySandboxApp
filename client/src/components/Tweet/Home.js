@@ -5,8 +5,8 @@ function Home() {
     <section>
       <div className="container-fluid">
         <h1 className="mt-5"> Welcome: This Tweety </h1>
-        <p>This side was created using Nodejs and React.</p>
-        <p> You may find here a basic tweet simple application</p>
+        <p>This site was created using Nodejs and React.</p>
+        <p> You may find here a basic tweet simple application demonstrating routing.</p>
       </div>
     </section>
   );
