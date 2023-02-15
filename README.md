@@ -1,6 +1,7 @@
-# A simple nodejs and reactjs app:
+# A simple template project: a nodejs and reactjs app:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is just a sandbox template MERN project using ReactJS, MongoDB, ExpressJS (NodeJS).
 
 ## Available Scripts
 
