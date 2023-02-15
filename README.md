@@ -1,6 +1,6 @@
-# Description:
+# Tweety Sandbox App
 
-A simple template project: a nodejs and reactjs app:
+A simple template project: a nodejs and reactjs app: to display and read tweets saved on mongoDB using ReactJS with react-rounting.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 It is just a sandbox template MERN project using ReactJS, MongoDB, ExpressJS (NodeJS).
